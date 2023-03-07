@@ -1,60 +1,77 @@
-﻿¿Cómo es tu zona?
-¿Cuáles son las ventajas de vivir en el campo/en la ciudad?
-¿Dónde te gustaría vivir en el futuro?
-¿Qué cambiarías de tu barrio si fueras el alcalde?
-¿Adónde fuiste de vacaciones el año pasado?
-¿Qué tipo de vacaciones te gustan?
-¿Vas a ir de vacaciones el año que viene?
-¿Crees que el turismo puede tener un impacto negativo en tu ciudad?
-¿Qué tan importante es el turismo en tu ciudad?
-¿Qué diferencias notas entre la vida española y la de tu propio país?
-¿Has ido a alguna fiesta hispana? ¿Cómo fue? / ¿Qué fiestas hispanas conoces? ¿Cuál es tu favorita y por qué?
-¿Si tuvieras la posibilidad, qué fiesta hispana te gustaría visitar? ¿Por qué?
-¿Cuáles tradiciones son importantes en tu cultura? ¿Por qué?
-¿Cómo celebraste tu cumpleaños?
-¿Qué fiestas similares hay entre el mundo hispanohablante y tu cultura?
-¿Qué asignaturas estudias en tu instituto?
-Describe tu día en el insti.
-¿Qué hiciste ayer en el insti?
-¿Qué cambiarías si fueras el director del instituto?
-¿Cuáles son las ventajas y desventajas de llevar uniforme en tu opinión?
-¿Qué reglas hay en tu insti?
-¿Crees que los estudiantes deberían usar sus móviles en el insti? ¿Por qué?
-¿Qué actividades extraescolares haces?
-¿Prefieres ir de excursión con tu familia o con tus amigos?
-Si pudieras organizar un viaje con tu clase ¿dónde te gustaría ir?
-¿Qué es más importante: ganar dinero o trabajar en lo que te gusta?
-¿Vale la pena ir a la universidad? ¿Por qué?
-¿Por qué muchos jóvenes prefieren pasar un tiempo al extranjero antes de ir a la universidad?
-¿Has tenido alguna experiencia de voluntariado? ¿Cómo fue?
-¿Qué vas a estudiar el año que viene?
-¿Qué trabajo te gustaría hacer en el futuro?
-¿Planeas ir a la universidad?
-¿Dónde te gustaría estudiar/trabajar en el futuro?
-¿Dónde vives?
-¿Cómo es tu casa?
-¿Cómo sería tu casa ideal?
-¿Cómo es tu rutina diaria?
-¿Qué hiciste el fin de semana pasado?
-¿Qué planeas hacer mañana?
-¿Cómo ayudas en la casa?
-¿Te llevas bien con tu familia?
-¿Prefieres salir con tu familia o con tus amigos?
-¿Tiene hermanos?
-Describe un miembro de tu familia
-¿Prefieres cenar en casa o en un restaurante? ¿Por qué (no)?
-Háblame de lo que hiciste en un día especial reciente con tus amigos o tu familia?
-¿Cuál es la fiesta más importante, en tu opinión?
-¿Crees que las fiestas tradicionales son importantes? ¿Por qué (no)?
-¿Eres muy deportista? ¿Por qué?
-¿Qué haces en tu tiempo libre?
-¿Llevas una vida sana?
-¿Qué hacías cuando eras niño?
-¿Cómo ayudas con las tareas domésticas?
-¿Tus padres te dan dinero? ¿Qué haces con la paga?
-¿Adónde fuiste de compras la última vez y qué compraste? ¿Qué hiciste?
-¿Qué haces para ganar dinero?
-¿Cuál es tu comida favorita?
-¿Qué come tu familia durante la semana?
-¿Has probado la comida española ¿Te gusta? ¿Por qué (no)?
-¿Qué vas a comer hoy?
+Wie findest du deine Stadt/deine Gegend? Warum?
+Wo wirst du vielleicht in der Zukunft leben und warum?
+Was sind die Vorteile vom Leben in der Stadt/auf dem Land?
+Wie hat sich deine Stadt/deine Region in den letzten paar Jahren verbessert?
+Wohin fährst du gern in Urlaub und warum?
+Welche Aktivitäten hast du letztes Jahr im Urlaub gemacht?
+Warum kann der Tourismus manchmal negativ sein?
+Wie wichtig wird der Tourismus für die Zukunft deiner Region sein?
+Was gibt es für interessante Traditionen in deinem Land?
+Welche Traditionen findest du besonders wichtig? Warum?
+Inwieweit ist es nötig, solche Sitten zu behalten?
+Welche Feste und Feiertage gibt es in deinem Land?
+Wie wirst du das nächste Fest feiern?
+Welches Fest findest du am interessantesten und warum?
+Inwiefern sind traditionelle Feste wichtig für Jugendliche?
+Welche Fächer lernst du am liebsten und warum?
+Welches war bis jetzt dein bestes Schuljahr?
+Welche sind die wichtigsten Schulfächer, meinst du?
+Wie könnte man den Schultag verbessern?
+Was sind die Vor- und Nachteile einer Schuluniform, deiner Meinung nach?
+Warum ist es wichtig, pünktlich zum Unterricht zu kommen?
+Wie haben sich die Schulregeln neulich an deiner Schule geändert?
+Inwiefern sind Hausaufgaben nützlich?
+Beschreib mir eine Klassenfahrt, die du neulich gemacht hast.
+Was sind die Vorteile von Klassenfahrten im Vergleich zu Ausflügen mit der Familie?
+Deiner Erfahrung nach, wie könnte man Klassenfahrten verbessern?
+Wie werden Klassenfahrten in der Zukunft anders sein, deiner Meinung nach?
+Warum haben viele Jugendliche einen Wochenendjob?
+Wie schwierig wird es für dich sein, in der Zukunft Arbeit zu finden, deiner Meinung nach?
+Warum wollen vielleicht manche Jugendliche vor der Universität im Ausland arbeiten?
+Wie helfen wohltätige Organisationen in deiner Gegend?
+Was für Pläne hast du für das nächste Schuljahr?
+Hast du vor, auf die Uni zu gehen?  Warum (nicht)?
+Welche Vorbereitungen hast du schon für deine Zukunft gemacht?
+Warum ist es wichtig, mehrere Berufsoptionen für die Zukunft zu haben?
+Beschreib bitte dein Haus oder deine Wohnung.
+Welche Änderungen hat deine Familie im Haus gemacht?
+Wenn du älter bist, in was für einem Haus wirst du wohnen?
+Warum wohnen manche Leute lieber in einer Wohnung als in einem Haus?
+Kannst du deine tägliche Morgenroutine beschrieben?
+Welche Aspekte deiner Morgenroutine möchtest du ändern und warum?
+Wie hast du letztes Wochenende mit der Hausarbeit geholfen?
+Warum ist es wichtig, dass junge Menschen zu Hause helfen?
+Warum macht es Spaß, Geschwister zu haben?
+Wie verstehst du dich normalerweise mit anderen Familienmitgliedern?
+Was wäre für dich die ideale Familie?
+Warum ist es wichtig, gute Freunde zu haben?
+Warum recyceln manche Leute nicht gern?
+Was hast du persönlich neulich gemacht, um der Umwelt zu helfen?
+Was könnte man machen, damit mehr Jugendliche sich für die Umwelt interessieren?
+Was sind vielleicht die Konsequenzen, wenn wir die Umwelt nicht schützen?
+Wie oft fährst du mit öffentlichen Verkehrsmitteln?
+Was sind die Vorteile vom Autofahren?
+Wie wichtig ist es, ein gutes öffentliches Verkehrssystem in deiner Region zu haben?
+Welche Rolle spielt das Fernsehen in deinem Leben?
+Was für Sendungen wirst du heute Abend sehen?
+Warum ist es wichtig, den Nachrichten zu verfolgen?
+Inwiefern ist es besser, Nachrichten im Internet zu verfolgen, statt in der Zeitung zu lesen.
+Warum haben viele Jugendliche ein Handy?
+Was hast du gestern mit deinem Handy/Laptop gemacht?
+In der Zukunft, welche Rolle werden Computer in unserem Leben spielen, deiner Meinung nach?
+Wie wichtig ist es, beim Studium einen Computer zu haben?
+Was ist dein Lieblingstag im Jahr und warum?
+Wie hast du deinen letzten Geburtstag gefeiert?
+Warum ist es gut, zusammen mit der Familie zu feiern?
+Welche Hobbys und Interessen hast du?
+Welchen Sport hast du als kleines Kind getrieben und warum?
+Warum ist es wichtig, jeden Tag ein bisschen Sport zu machen?
+Was sind wohl die Folgen, wenn man keine Hobbys oder Interessen hat?
+Wie oft gehst du einkaufen?
+Was hast du vor kurzem mit deinem Taschengeld gekauft?
+Wie könnte man die Geschäfte in deiner Stadt/in deinem Dorf attraktiver machen?
+Inwieweit ist es besser, über das Internet einzukaufen?
+Wie wichtig sind Essen und Trinken in deinem Leben?
+Was hast du gestern Abend gegessen? What did you eat yesterday?
+Warum sind vielleicht manche Leute Vegetarier?
+Inwieweit sollte man versuchen, Produkte aus der eigenen Region zu essen?
