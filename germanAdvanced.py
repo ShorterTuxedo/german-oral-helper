@@ -8,11 +8,11 @@ deutschen = ["HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_
 #determines the speed of the voice, higher is faster (wpm)
 newVoiceRate = 125
 #determines the number of questions asked before the program moves onto a new batch of qs
-batchSize = input("Batch size?")
+batchSize = int(input("Batch size?"))
 
 
 countdownmode=True
-countdownTime=int("Countdown timing?")
+countdownTime=int(input("Countdown timing?"))
 engine = pyttsx3.init()
 engine.setProperty('rate',newVoiceRate)
 engine.setProperty('voice', deutschen[0])
