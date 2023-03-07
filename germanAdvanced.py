@@ -10,6 +10,9 @@ newVoiceRate = 125
 #determines the number of questions asked before the program moves onto a new batch of qs
 batchSize = 1
 
+
+countdownmode=True
+countdownTime=20
 engine = pyttsx3.init()
 engine.setProperty('rate',newVoiceRate)
 engine.setProperty('voice', deutschen[0])
@@ -31,9 +34,18 @@ def batch():
 
     while (len(batch)!=0):
         text=batch[random.randint(0,len(batch)-1)]
-        pastTime=time.time() 
+        if not countdownmode:
+            pastTime=time.time() 
         engine.say(text)
         engine.runAndWait()
+        if countdownmode:
+            ct=countdownTime
+            while ct>0:
+                print(ct)
+                time.sleep(1)
+                ct -= 1
+            print("0")
+            print("Time is up.")
         store=input("Were you confident in your answer?\n")
         if store.lower()=='y':
             if (text in confident):
@@ -46,7 +58,8 @@ def batch():
             #written to text file at the end of a batch
             unconf.add(text)
         #time in seconds it has taken you to answer, because why not
-        print(time.time()-pastTime)
+        if not countdownmode:
+            print(time.time()-pastTime)
         time.sleep(1)
     
     print("Batch Complete")
