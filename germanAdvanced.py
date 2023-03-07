@@ -8,11 +8,11 @@ deutschen = ["HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_
 #determines the speed of the voice, higher is faster (wpm)
 newVoiceRate = 125
 #determines the number of questions asked before the program moves onto a new batch of qs
-batchSize = 1
+batchSize = input("Batch size?")
 
 
 countdownmode=True
-countdownTime=20
+countdownTime=int("Countdown timing?")
 engine = pyttsx3.init()
 engine.setProperty('rate',newVoiceRate)
 engine.setProperty('voice', deutschen[0])
@@ -46,7 +46,7 @@ def batch():
                 ct -= 1
             print("0")
             print("Time is up.")
-        store=input("Were you confident in your answer?\n")
+        store=input("Were you confident in your answer?(Y/N)\n")
         if store.lower()=='y':
             if (text in confident):
                 confident.remove(text)
