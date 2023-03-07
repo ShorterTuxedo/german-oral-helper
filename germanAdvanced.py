@@ -1,5 +1,6 @@
 import pyttsx3
 import random
+import playsound
 import time
 
 ###consts###
@@ -43,6 +44,7 @@ def batch():
                 time.sleep(1)
                 ct -= 1
             print("0")
+            playsound.playsound("CHIMES.wav")
             print("Time is up.")
         store=input("Were you confident in your answer?(Y/N)\n")
         if store.lower()=='y':
