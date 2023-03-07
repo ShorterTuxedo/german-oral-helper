@@ -48,15 +48,18 @@ def batch():
         if store.lower()=='y':
             print(f"You're done! That question was:\n{text}")
             if (text in confident):
+                print("You're done with this question! Let's move on.")
                 confident.remove(text)
                 batch.remove(text)
             else:
+                print("You're confident with it. Let's try it again.")
                 confident.append(text)
         else:
             print(f"You're done! That question was:\n{text}")
             #any question that is not immediately answered with confidence is added to unconf
             #written to text file at the end of a batch
             unconf.add(text)
+            print("Oops! You feel quite unconfident about it. Let's do this again.")
         #time in seconds it has taken you to answer, because why not
         if not countdownmode:
             print(time.time()-pastTime)
