@@ -7,7 +7,12 @@ import time
 #the location of the microsoft voice, you need to install them in your settings for it to work (just google install spanish voice package)
 deutschen = ["HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_DE-DE_HEDDA_11.0", "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-TW_HANHAN_11.0"]
 #determines the speed of the voice, higher is faster (wpm)
-newVoiceRate = 125
+defaultVoiceRate=125
+newVoiceRate = defaultVoiceRate
+try:
+    newVoiceRate=int(input("Voice rate?(default is 125)"))
+except:
+    newVoiceRate=defaultVoiceRate
 #determines the number of questions asked before the program moves onto a new batch of qs
 countdownmode=input("Countdown mode?").lower()=="true"
 batchSize = int(input("Batch size?"))
